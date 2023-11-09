@@ -1,11 +1,8 @@
+
 <div align="center">
 <h3> Olá, me chamo Itamar </h3>
-<!--
-<div>
-<a href="https://github.com/ItamarPrado">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itamarprado&layout=compact&langs_count=7&theme=apprentice&include_all_commits=true&count_private=true""/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=itamarprado&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div> -->
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=itamarprado&theme=gotham&show_icons=true&hide_border=true&count_private=false&locale=pt-br&custom_title=Estatísticas&rank_icon=github" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=itamarprado&layout=compact&langs_count=8&theme=gotham&locale=pt-br&hide_border=true&hide_progress=false" />
 
 <h3>Sobre mim</h3>
 Atualmente estou estudando algumas tecnologias e tentando estabelecer uma boa base de conhecimento para desenvolver aplicativos e sistemas melhores, e adquirir ainda mais conhecimento e prática.
