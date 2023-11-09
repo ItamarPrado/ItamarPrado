@@ -8,7 +8,7 @@
 </div> -->
 
 <h3>Sobre mim</h3>
-<p>Atualmente estou estudando algumas tecnologias e tentando estabelecer uma boa base de conhecimento para desenvolver aplicativos e sistemas melhores, e adquirir ainda mais conhecimento e prática.</p>
+Atualmente estou estudando algumas tecnologias e tentando estabelecer uma boa base de conhecimento para desenvolver aplicativos e sistemas melhores, e adquirir ainda mais conhecimento e prática.
 
 <div>
   <div>
